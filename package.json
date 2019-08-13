@@ -1,0 +1,11 @@
+{
+  "name": "pm2service",
+  "version": "1.0.0",
+  "description": "change postman api to service files",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "linyuzhao <619922380@qq.com>",
+  "license": "ISC"
+}
